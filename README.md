@@ -11,3 +11,6 @@ The project serves a real estate company seeking to:
 ## Key Objectives
 Provide a tool for real estate agents to predict house prices quickly and accurately.
 Deliver insights into factors influencing house prices, particularly for higher-end properties.
+
+## Visualisation
+Access to Tableau Dashboard for this project : https://public.tableau.com/app/profile/kao.d/viz/MidbootcampTableau/Dashboard1?publish=yes
